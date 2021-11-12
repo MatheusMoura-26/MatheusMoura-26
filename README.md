@@ -1,15 +1,12 @@
 ### olá, Tudo certo? 👋
 
-
-<!--
 - 🌱 Estudando Java ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 Contate-me teu.augusto@gmail.com
 - 😄 Pronouns: Ele/Dele
-...
--->
+
 <div align="center">
   <a href="https://github.com/MatheusMoura-26">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoura-26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
