@@ -7,7 +7,7 @@
 - 📫 Contate-me teu.augusto@gmail.com
 - 😄 Pronouns: Ele/Dele
 -->
-<div align="center">
+<div>
   <a href="https://github.com/MatheusMoura-26">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoura-26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoura-26&layout=compact&langs_count=7&theme=dark"/>
